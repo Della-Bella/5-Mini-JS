@@ -26,4 +26,20 @@ Cleared the input box so the user can try again with a new word.
 
 🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳
 
+# ✨ Quote Generator Project - Recap 
+
+**1.   Setting Up and Storing the Quotes:** 📝
+    *    Created a JavaScript array (`const quotes = [...]`) to store the quotes!
+    *    Used `document.getElementById("quote")` to get the quote display area from my HTML.
+
+**2. 💡 Generating Quotes & Making it Clickable!:**
+    *    Made a function called `generateQuote()` that picks a random quote from my list!
+    *    Used `quoteElement.innerHTML = quote;` to show the quote on the page.
+    *   Made the button trigger the `generateQuote()` function with `onclick="generateQuote()"`. 
+
+**3. 🚫 Making Sure Quotes Don't Repeat:**
+    *    Used a `Set` called `usedIndexes`not shows the same quote .
+
+
+
 
