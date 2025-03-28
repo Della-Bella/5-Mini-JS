@@ -1,12 +1,11 @@
-#  Colour Flipper Project - Recap 🌈
+#  Colour Flipper Project - Recap 
 **What I Practiced:**  Dynamically changing webpage background colours with JavaScript! ✨
 ** Key Concepts Reinforced:**
-*  💻 ** DOM Manipulation:** 💻 Accessing and modifying the `document.body` to directly affect the webpage's appearance.
-*  ☎️ ** Function Calls:**  ☎️ Creating and triggering JavaScript functions using HTML buttons to execute specific colour changes.
-*  🌈 ** Random Colour Generation:** 🌈 Implementing a random colour generator using `Math.random()` and `Math.round()` to create a dynamic and visually engaging experience.
+*  💻 ** DOM Manipulation:**  Accessing and modifying the `document.body` to directly affect the webpage's appearance.
+*  ☎️ ** Function Calls:**  ☎ Creating and triggering JavaScript functions using HTML buttons to execute specific colour changes.
+*  🌈 ** Random Colour Generation:**  Implementing a random colour generator using `Math.random()` and `Math.round()` to create a dynamic and visually engaging experience.
 **In essence:** A fun exercise in connecting user interaction (button clicks) to dynamic visual changes on a webpage, solidifying my understanding of JavaScript's core capabilities.
 
-🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳
 
 # Palindrome Checker Project - Recap ✅
  **What I Practiced:** Learned how to take user input, manipulate strings (reverse them), and make decisions with `if` and `else` statements to a Palindrome Checker. 
@@ -24,7 +23,7 @@ Used `if` and `else` to display a message based on whether it's a palindrome or 
 **Clean Up 🧹:**
 Cleared the input box so the user can try again with a new word.
 
-🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳
+
 
 # ✨ Quote Generator Project - Recap 
 
@@ -39,6 +38,25 @@ Cleared the input box so the user can try again with a new word.
 
 **3. 🚫 Making Sure Quotes Don't Repeat:**
     *    Used a `Set` called `usedIndexes`not shows the same quote .
+
+
+    
+✨ # To Do List Project - Recap ✨
+1. Adding Items ➕:
+    * Allowed users to type in a task and add it to the list.
+    * Checked for empty input to prevent adding blank items.
+2. Displaying Items 📜:
+    * Dynamically created HTML elements (like <div> and <p>) to display each to-do item on the page.
+    * Used JavaScript to update the list whenever a new item was added or removed.
+3. Deleting Items 🗑️:
+    * Added a "Delete" button next to each item.
+    * Used JavaScript to remove the item from the list when the button is clicked. 
+4. Saving Items (Local Storage) 💾:
+    * Learned how to use localStorage to save the to-do items in the browser.
+    * Now, the list persists even after you close and reopen the page! 
+5. Loading Items (Local Storage) :
+    * Also use localStorage to load the to-do items whenever the webpage loads.
+    * This ensures the to-do list is there every time. 
 
 
 
